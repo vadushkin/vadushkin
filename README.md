@@ -1,4 +1,3 @@
-### I am Junior Python developer
 ### I am Junior backend developer on Python(Django)
 ![](img/python.jpg)
 I am a junior in Python and for today I have the following skills:
