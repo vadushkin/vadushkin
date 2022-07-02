@@ -6,7 +6,7 @@
 - Git/GitHub
 - Docker
 - HTML/CSS
-- PostgreSQL and SQLite
+- PostgreSQL
 
 
 **I am not planning to stop at this point, this is just a milestone but not the destination**
