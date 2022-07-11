@@ -9,4 +9,5 @@
 - PostgreSQL
 
 Familiar with Javascript
+
 **I am not planning to stop at this point, this is just a milestone but not the destination**
