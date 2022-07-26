@@ -8,6 +8,6 @@
 - HTML/CSS
 - PostgreSQL
 
-Familiar with JavaScript
+Familiar with JavaScript and React
 
 **I am not planning to stop at this point, this is just a milestone but not the destination**
