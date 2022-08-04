@@ -1,10 +1,10 @@
-### _I am Junior backend developer on Python_
+### _Python Junior backend developer_
 ![](img/python.jpg)
 **I am a junior in Python and for today I have the following skills:**
 
-- Python (Django framework, discord and telegram bots)
+- Python (Django framework, Django Rest Framework, discord and telegram bots)
 - Git/GitHub
-- Docker
+- Docker/Docker-compose
 - HTML/CSS
 - PostgreSQL
 
