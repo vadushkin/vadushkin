@@ -1,7 +1,7 @@
 <p align="center">
   <img width="150px" src="https://avatars.githubusercontent.com/u/106238244?v=4" align="center" alt="Avatar">
   <h2 align="center">
-    <h1>Vadim</h1>
+    <a href"https://github.com/vadushkin">Vadim</a>
   </h2>
   
 <p align="center">
