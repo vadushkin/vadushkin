@@ -6,9 +6,9 @@
   
 <p align="center">
   
-  <img height="70px" src="https://github-readme-stats.vercel.app/api?username=vadushkin&count_private=true&hide_title=true&include_all_commits=true&show_icons=true">
+  <img height="120px" src="https://github-readme-stats.vercel.app/api?username=vadushkin&count_private=true&hide_title=true&include_all_commits=true&show_icons=true">
   
-  <img height="70px" src="https://github-readme-stats.vercel.app/api/wakatime?username=vadushkin&langs_count=8&layout=compact" alt="My code frequency">
+<!--   <img height="70px" src="https://github-readme-stats.vercel.app/api/wakatime?username=vadushkin&langs_count=8&layout=compact" alt="My code frequency"> -->
   
   <br/>
 
