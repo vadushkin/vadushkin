@@ -4,17 +4,20 @@
     <a href"https://github.com/vadushkin">Vadim</a>
   </h2>
   
-<p align="center">
-  
-  <img height="120px" src="https://github-readme-stats.vercel.app/api?username=vadushkin&count_private=true&hide_title=true&include_all_commits=true&show_icons=true">
-  
-  <img height="120px" src="https://wakatime.com/share/@Vadushkin/a554d3ab-c8ec-42bc-84df-ed4474c0c84c.svg">
-  
-  <br/>
-
-  <img alt="GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Vadushkin&theme=xcode">
-  
-</p>
+<hr>
+<details>
+    <summary>Github Statistics...</summary>
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=vadushkin&count_private=true&hide_title=true&include_all_commits=true&show_icons=true">
+    </p>
+</details>
+<details>
+    <summary>Language Statistics...</summary>
+    <p align="center">
+        <img src="https://wakatime.com/share/@Vadushkin/73523276-7fee-417b-9f29-3e617e822f17.svg">
+    </p>
+</details>
+<hr>
 
 ---
 
