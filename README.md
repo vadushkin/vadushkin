@@ -1,23 +1,15 @@
 <p align="center">
-  <img width="150px" src="https://avatars.githubusercontent.com/u/106238244?v=4" align="center" alt="Avatar">
+  <img width="150px" src="https://avatars.githubusercontent.com/u/106238244?v=4" align="center" alt="Avatar"/>
   <h2 align="center">
-    <a href"https://github.com/vadushkin">Vadim</a>
+    <a href="https://github.com/vadushkin">Vadim</a>
   </h2>
-  
-<hr>
-<details>
-    <summary>Github Statistics...</summary>
-    <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=vadushkin">
-    </p>
-</details>
-<details>
-    <summary>Language Statistics...</summary>
-    <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vadushkin&langs_count=8&layout=compact">
-    </p>
-</details>
-<hr>
+
+<p align="center">
+
+  <img height=120px src="https://github-readme-stats.vercel.app/api?username=vadushkin">
+
+  <img height=120px src="https://github-readme-stats.vercel.app/api/top-langs/?username=vadushkin&langs_count=8&layout=compact">
+
 
 - **He/him**
 - **Programming 💼, Music Piano 🎹, Chess 🥇**
