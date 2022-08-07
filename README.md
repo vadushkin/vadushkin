@@ -22,11 +22,8 @@
 ---
 
 - **He/him**
-
 - **Programming 💼, Music Piano 🎹, Chess 🥇**
-
 - **Currently, learning JavaScript and frameworks for Python**
-
 - **Reach me through [vadimshalapugin@gmail.com](mailto:vadimshalapugin@gmail.com)**
 
 ---
