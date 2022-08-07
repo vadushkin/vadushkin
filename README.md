@@ -8,18 +8,16 @@
 <details>
     <summary>Github Statistics...</summary>
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=vadushkin&count_private=true&hide_title=true&include_all_commits=true&show_icons=true">
+        <img src="https://github-readme-stats.vercel.app/api?username=vadushkin">
     </p>
 </details>
 <details>
     <summary>Language Statistics...</summary>
     <p align="center">
-        <img src="https://wakatime.com/share/@Vadushkin/7aec6575-9f80-4f90-bcee-92a16a2d9304.svg">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vadushkin&langs_count=8&layout=compact">
     </p>
 </details>
 <hr>
-
----
 
 - **He/him**
 - **Programming 💼, Music Piano 🎹, Chess 🥇**
