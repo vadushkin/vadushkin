@@ -6,9 +6,9 @@
   
 <p align="center">
   
-  <img height="220px" src="https://github-readme-stats.vercel.app/api?username=vadushkin&count_private=true&hide_title=true&include_all_commits=true&show_icons=true">
+  <img height="120px" src="https://github-readme-stats.vercel.app/api?username=vadushkin&count_private=true&hide_title=true&include_all_commits=true&show_icons=true">
   
-  <img height="220px" src="https://wakatime.com/share/@Vadushkin/a554d3ab-c8ec-42bc-84df-ed4474c0c84c.svg">
+  <img height="120px" src="https://wakatime.com/share/@Vadushkin/a554d3ab-c8ec-42bc-84df-ed4474c0c84c.svg">
   
   <br/>
 
