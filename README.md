@@ -14,7 +14,7 @@
 <details>
     <summary>Language Statistics...</summary>
     <p align="center">
-        <img src="https://wakatime.com/share/@Vadushkin/73523276-7fee-417b-9f29-3e617e822f17.svg">
+        <img src="https://wakatime.com/share/@Vadushkin/7aec6575-9f80-4f90-bcee-92a16a2d9304.svg">
     </p>
 </details>
 <hr>
