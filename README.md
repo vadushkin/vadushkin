@@ -1,11 +1,13 @@
-<p align="center">
-  <img width="150px" src="https://avatars.githubusercontent.com/u/106238244?v=4" align="center" alt="Avatar"/>
+<!-- <p align="center">
+  <img width="150px" src="https://avatars.githubusercontent.com/u/106238244?v=4" align="center" alt="Avatar"/> -->
 
 <p align="center">
 
-  <img height=120px src="https://github-readme-stats.vercel.app/api?username=vadushkin">
+  <img height=160px src="https://github-readme-stats.vercel.app/api?username=vadushkin">
 
-  <img height=120px src="https://github-readme-stats.vercel.app/api/top-langs/?username=vadushkin&langs_count=8&layout=compact">
+  <img height=160px src="https://github-readme-stats.vercel.app/api/top-langs/?username=vadushkin&langs_count=8&layout=compact">
+  
+  <img alt="GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AnotiaWang&theme=xcode">
 
 ---
 
