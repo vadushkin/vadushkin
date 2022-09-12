@@ -7,7 +7,7 @@
 
   <img height=160px src="https://github-readme-stats.vercel.app/api/top-langs/?username=vadushkin&langs_count=8&layout=compact">
   
-<!-- <img alt="GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vadushkin&theme=xcode">-->
+<img alt="GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vadushkin&theme=xcode">
 
 ---
 
