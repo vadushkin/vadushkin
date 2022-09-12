@@ -18,7 +18,7 @@
 
 ---
 
-For today, I have the following skills:
+#### For today, I have the following skills:
 
 * **🐍 Python (Django framework, Django Rest Framework, discord and telegram bots)**
 * **🐱‍👤 Git/GitHub**
