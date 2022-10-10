@@ -13,7 +13,7 @@
 
 - **He/him**
 - **Programming 💼, Music Piano 🎹, Chess 🥇**
-- **Currently, learning Frameworks for Python, С++/JavaScript**
+- **Currently, learning Frameworks for Python**
 - **Reach me through [vadimshalapugin@gmail.com](mailto:vadimshalapugin@gmail.com)**
 
 ---
