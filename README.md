@@ -20,7 +20,7 @@
 
 #### For today, I have the following skills:
 
-* **🐍 Python (Django framework, Django Rest Framework, discord and telegram bots)**
+* **🐍 Python (Django Framework, Django Rest Framework, Discord and Telegram Bots)**
 * **🐱‍👤 Git/GitHub**
 * **🐋 Docker/Docker-compose**
 * **😆 HTML/CSS**
